@@ -112,3 +112,7 @@ a {
 @tailwind utilities;
 
 /* npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch */
+li{
+  list-style-type:circle;
+  /* display: inline-block; */
+}

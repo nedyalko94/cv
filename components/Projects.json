@@ -1,0 +1,39 @@
+[
+    {
+        "project":"https://whattowatchtoday.netlify.app",
+        "name":"Movies Trailer",
+        "technology":["React, ","Public API, ","CSS, ","Bootstrap; "]
+    },
+    {
+        "project":"https://nedyalko.netlify.app",
+        "name":"Portfolio",
+        "technology":["React, ","Bootstrap, ","CSS, ","React-fiber, ","React Spring, ","Node; "]
+
+    },
+    {
+        "project":"https://recipefordishes.netlify.app",
+        "name":"Cooking recipe",
+        "technology":["React, ","Bootstrap, ","CSS, ","Public API; "]
+
+    },
+    {
+        "project":"https://mernshop-two.vercel.app",
+        "name":"Full Stack E-commerce",
+        "technology":["React, ","Node, ","Express, ","Bootstrap,","CSS, ","Nodemailer, ","Pay Pal, ","Firebase; "]
+
+    },
+    {
+        "project":"https://kamaknojicahartiya.netlify.app",
+        "name":"Rock Paper Scissor",
+        "technology":["Plain Javascript, ","CSS, ","HTML; "]
+
+    },
+    {
+        "project":"https://calk0.netlify.app",
+        "name":"Rock Paper Scissor",
+        "technology":["Plain Javascript, ","CSS, ","HTML; "]
+
+    }
+]
+
+
