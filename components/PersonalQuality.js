@@ -7,7 +7,7 @@ export default function PersonalQuality() {
         <ul className='p-5'>
           <li>organize</li>
           <li>open minded </li>
-          <li>ego to learn ....</li>
+          <li>love  to learn new technology and technics....</li>
         </ul>
       
 
