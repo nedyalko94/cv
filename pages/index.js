@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import Image from 'next/image'
 import { Inter } from 'next/font/google'
 
 import Skills from '@/components/Skills'
@@ -9,8 +8,9 @@ import EducationAndCurses from '@/components/EducationAndCurses'
 import Languages from '@/components/Languages'
 import ProfessionalExperience from '@/components/ProfessionalExperience'
 import HobbiesAndInterest from '@/components/HobbiesAndInterest'
-import Projects from '@/components/Projects'
+
 import CareerObjectives from '@/components/CareerObjectives'
+import SoftSkill from '../components/SoftSkills'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -31,12 +31,15 @@ export default function Home() {
         <Header />
         <Contact />
         <EducationAndCurses />
+        <CareerObjectives/>
+
         <Languages />
+        <Skills />
+        <SoftSkill/>
         <ProfessionalExperience />
         <HobbiesAndInterest/> 
-        <CareerObjectives/>
-        <Skills />
-        {/* <Projects/> */}
+
+
       </div>
     </div>
   )

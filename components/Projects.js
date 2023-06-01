@@ -12,9 +12,7 @@ export default function Projects() {
 {  projects !== undefined ? projects.map((url,index)=>
   <div id={index} className=' p-1 border-2 rounded-lg border-slate-700 bg-slate-100 hover:bg-slate-400' key={index}>
     
-    {/* <iframe className={`${"project"+index}`} key={index} src={url.project}
-     title={url.name} width={400} height={450}>
-    </iframe> */}
+  
     <h1>Project: {url.name}</h1>
     <div>Technology: {url.technology}</div> 
     <div>Link: <a href={url.project} className='hover:text-blue-700'>{url.project}</a></div>

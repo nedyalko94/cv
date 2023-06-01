@@ -19,7 +19,7 @@
     {
         "project":"https://mernshop-two.vercel.app",
         "name":"Full Stack E-commerce",
-        "technology":["React, ","Node, ","Express, ","Bootstrap,","CSS, ","Nodemailer, ","Pay Pal, ","Firebase; "]
+        "technology":["React, ","Node, ","Express, ","MongoDB, ","Bootstrap,","CSS, ","Nodemailer, ","Pay Pal, ","Firebase; "]
 
     },
     {
