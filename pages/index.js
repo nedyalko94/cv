@@ -27,9 +27,11 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className=' bg-slate-200   min-h-screen'>
-
-        <Header />
+<div className='flex items-center justify-around	'>
+<Header />
         <Contact />
+</div>
+        
         <EducationAndCurses />
         <CareerObjectives/>
 
