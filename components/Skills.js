@@ -8,7 +8,7 @@ export default function skills() {
   return (
     <div>
           
-    <h1 className='bg-black text-x text-white font-bold p-1'>Skills & Technologies</h1>
+    <h1 className='bg-black text-x text-white font-bold p-1'> Professional Skills & Technologies</h1>
     <div className='grid grid-cols-3 gap-1  px-4 py-4'>
     <div className=" flex gap-2"><SiNextdotjs className=''/><div>NextJS</div></div>
     <div className=" flex gap-2"><FaReact className='text-blue-400'/><div>ReactJS</div></div>

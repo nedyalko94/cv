@@ -5,6 +5,18 @@ export default function ProfessionalExperience() {
         <div     >
             <h1 className='bg-black text-x text-white font-bold p-1'> Professional Experience</h1>
             <div className='p-3'>
+            <div className=' my-3 '>
+                <div className='font-bold'>Freelance</div>
+                <div>  2023-Present</div>
+                <ul className='px-7'>
+                    <li>Web Development.</li>
+                    <li>Design UX/UI.</li>
+                    <li>Deployment.</li>
+                    <li>Customer Supporting</li>
+                    <li>Customer contact.</li>
+                </ul>
+            </div>
+
 
             <div className=' my-3 '>
                 <div className='font-bold'>Cook Assistant</div>
