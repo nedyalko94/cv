@@ -30,7 +30,7 @@
     },
     {
         "project":"https://calk0.netlify.app",
-        "name":"Rock Paper Scissor",
+        "name":"Calculator",
         "technology":["Plain Javascript, ","CSS, ","HTML; "]
 
     }
